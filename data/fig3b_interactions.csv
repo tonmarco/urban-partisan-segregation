@@ -1,0 +1,23 @@
+"city","term","estimate","standard_error"
+"Seattle","S_res_sc:sigma_s_sc",0.00110298429197558,0.000317343713439737
+"Seattle","S_res_sc:avg_disthome_weighted_sc",-0.0483397549581739,0.000365985776942251
+"Detroit","S_res_sc:sigma_s_sc",0.00552283086224621,0.00034292856466098
+"Detroit","S_res_sc:avg_disthome_weighted_sc",-0.0590534444049011,0.000419392465352259
+"Washington, DC","S_res_sc:sigma_s_sc",0.00177934671733271,0.000258667107748773
+"Washington, DC","S_res_sc:avg_disthome_weighted_sc",-0.0546771450467816,0.000319602453763766
+"Boston","S_res_sc:sigma_s_sc",0.00289359116866054,0.000361215572799537
+"Boston","S_res_sc:avg_disthome_weighted_sc",-0.042003693572121,0.000434461292159077
+"Chicago","S_res_sc:sigma_s_sc",0.00348973440004307,0.000191315933621088
+"Chicago","S_res_sc:avg_disthome_weighted_sc",-0.0513884685703297,0.000225201913112672
+"New York","S_res_sc:sigma_s_sc",0.00528394737183485,0.000263478415019797
+"New York","S_res_sc:avg_disthome_weighted_sc",-0.0629387313023859,0.000313814065867872
+"Dallas","S_res_sc:sigma_s_sc",0.00356589817264243,0.000227161564423564
+"Dallas","S_res_sc:avg_disthome_weighted_sc",-0.0559057972453734,0.000263969544111508
+"Miami","S_res_sc:sigma_s_sc",0.00277278752423696,0.000178989304825602
+"Miami","S_res_sc:avg_disthome_weighted_sc",-0.0252032735151394,0.000196742691967511
+"Los Angeles","S_res_sc:sigma_s_sc",0.00260235093222189,0.000168305921313349
+"Los Angeles","S_res_sc:avg_disthome_weighted_sc",-0.037584254042726,0.00018257700310851
+"Philadelphia","S_res_sc:sigma_s_sc",0.00137647095284561,0.000290189522452635
+"Philadelphia","S_res_sc:avg_disthome_weighted_sc",-0.0457579733091134,0.000351328018863167
+"San Francisco","S_res_sc:sigma_s_sc",0.00104235617513902,0.00021548824488051
+"San Francisco","S_res_sc:avg_disthome_weighted_sc",-0.0313913288648508,0.000252390168942924
